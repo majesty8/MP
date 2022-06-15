@@ -4,7 +4,7 @@ import React from "react";
 export default function ThirdwebGuideFooter() {
   const url = "https://github.com/thirdweb-example/custom-minting-page";
   return (
-    <>
+    <><!--
       <div
         style={{
           position: "fixed",
@@ -20,7 +20,7 @@ export default function ThirdwebGuideFooter() {
         role="button"
         onClick={() => window.open(url, "_blank")}
       />
-<!--
+
       <div
         style={{
           position: "fixed",
