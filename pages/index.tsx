@@ -122,13 +122,7 @@ const Home: NextPage = () => {
           )}
         </div>
       </div>
-      {/* Powered by thirdweb */}{" "}
-      <img
-        src={`/logo.png`}
-        alt="Thirdweb Logo"
-        width={135}
-        className={styles.thirdwebLogo}
-      />
+    
     </div>
   );
 };
