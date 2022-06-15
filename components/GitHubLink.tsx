@@ -28,8 +28,9 @@ export default function ThirdwebGuideFooter() {
           right: 18,
         }}
       >
-        -->
+       
       </div>
+ -->
     </>
   );
 }
